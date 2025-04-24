@@ -1,8 +1,7 @@
-# Secure File Management System (BCSE 1203)
+# Secure File Management System (
 
 ### Feature Checklist
 
-- [x] Git version control and collaboration (branches, commits, merges)
 - [x] User authentication with password hashing (SHA-256)
 - [x] File encryption using XOR
 - [x] Audit logging of user actions
